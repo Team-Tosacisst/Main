@@ -12,7 +12,7 @@
 | Back-End                | 김재훈 |
 | iOS                     | 이동기 | 
 | Data Science            | 유동근 |
-| Publicing               | 김해건 | 
+| Publishing               | 김해건 | 
 | Android                 | 홍성하 | 
 | Android                 | 전승민 |
  
